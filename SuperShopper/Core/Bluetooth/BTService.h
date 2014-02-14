@@ -4,7 +4,7 @@
 //
 //  Created by Udit on 1/26/14.
 //  Copyright (c) 2014 Nagarro. All rights reserved.
-//  Checking gitHub connection
+//
 
 #import <Foundation/Foundation.h>
 #import <GameKit/GameKit.h>
